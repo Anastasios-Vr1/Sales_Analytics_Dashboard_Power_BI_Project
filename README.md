@@ -1,11 +1,12 @@
-## End-to-end Portfolio Project: From Data Modelling to Interactive Power BI Sales Dashboard
+# Introduction
+ _End-to-end Portfolio Project: From Data Modelling to Interactive Power BI Sales Dashboard_
 
 ### Project Overview:
 This project involved analyzing sales data for the fictional chocolate brand "Choco Essence" using Microsoft Power BI. The data was sourced from [Chandoo.org](https://chandoo.org/) and was explored to gain insights into sales performance.
 
-📁 Files:
+🗃️ Files:
 - [The Dataset](essence_ch-sample-data.xlsx) 
-- [Choco Essence custom-made logo](Choco_Essence_logo.png)
+- [Custom-made logo](Choco_Essence_logo.png)
 
 🧩 See the full dashboard here - [App Power BI link](https://app.powerbi.com/view?r=eyJrIjoiODE0N2IxNzUtZTYyZC00YWYyLTgwMGUtNGVhYWQzZDZkM2NhIiwidCI6IjU5NTNiNjc5LWUzMGMtNGRjNi05MmU5LTZlNzUzMjkwOTQ3YyIsImMiOjN9)
 
@@ -39,8 +40,12 @@ The interactive dashboard includes a variety of visualizations and slicers to an
 - **Microsoft Excel**
 
 ### 💡 Key Achievements:
-- Gained valuable insights into **"Choco Essence"** sales performance across various categories, regions, and timeframes
-- Identified **top-performing salespeople** and observed sales trends across regions and product lines
-- Conducted a detailed **performance analysis**, identifying areas for improvement and target achievement.
 
-![Custom logo](Choco_Essence_logo.png)
+- Uncovered **actionable insights** into the **sales dynamics of Choco Essence**, illuminating performance trends across diverse product categories and geographical regions
+- Recognized **top-performing salespeople**, celebrating their contributions while uncovering sales patterns that drive future strategies. Identified **best-selling products** within the portfolio, highlighting their dynamics and contributions to **revenue and profitability**
+- Conducted an in-depth **performance analysis**, pinpointing opportunities for improvement and highlighting success in achieving targets, paving the way for enhanced sales strategies.
+
+<img src="Choco_Essence_logo.png" alt="Custom logo" width="700" />
+
+##### Acknowledgements & Inspiration:
+This project was inspired by resources and tutorials from Chandoo.org, a fantastic platform dedicated to helping people become awesome in Excel, Power BI, and data visualization. Special thanks to the Chandoo community for their invaluable insights and guidance throughout the learning process.
